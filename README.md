@@ -5,7 +5,7 @@ AKCSSC page.design() submission
 No javascript<br>
 No animations<br>
 Just pure html & css.<br><br>
----
+<hr>
 #### PS: 
 All the images used are royalty free and rendered by me ( small shoutout to myself :P )<br>
 You can find the images used here - https://instagram.com/dailywrender/
