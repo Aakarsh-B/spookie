@@ -83,19 +83,19 @@ section p{
 }
 
 section#a {
-    background: url('spookie-01.png') no-repeat center center/cover;;
+    background: url('../images/spookie-01.png') no-repeat center center/cover;;
 }
 
 section#b {
-    background: url('spookie-02.png') no-repeat center center/cover;;
+    background: url('../images/spookie-02.png') no-repeat center center/cover;;
 }
 
 section#c {
-    background: url('spookie-03.png') no-repeat center center/cover;;
+    background: url('../images/spookie-03.png') no-repeat center center/cover;;
 }
 
 section#d {
-    background: url('spookie-04.png') no-repeat center center/cover;;
+    background: url('../images/spookie-04.png') no-repeat center center/cover;;
 }
 
 .footer{
